@@ -17,4 +17,4 @@ which installs several *R* packages and tests that *git* is
 installed. Please run this script before trying any of the 
 examples or attempting the exercises.
 
-Test change created by MA
+# Test change created by MA
